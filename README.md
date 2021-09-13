@@ -89,7 +89,7 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Where you can flollow me ✨
 
   
 
@@ -101,7 +101,7 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
 
 <p align="center">
   <br/>
-   <a href="https://github.com/parth-27">
+   <a href="https://github.com/zaakmos>
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 <br/>
