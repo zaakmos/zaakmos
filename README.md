@@ -37,7 +37,6 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       
-    </tr>
     
   </tbody>
 </table>
