@@ -45,15 +45,7 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
 <h1 align="center">
 👣 Where you can flollow me ? 👣
 
-  
-
-  <!--https://github.com/zaakmos-->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-<p align="center">
+  <p align="center">
   <br/>
    <a href="https://github.com/zaakmos">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
