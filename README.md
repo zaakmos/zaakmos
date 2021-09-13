@@ -29,12 +29,12 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br><a href="https://www.javascript.com/">
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>MySql</strong></span><br><br><br><a href="https://www.mysql.com/">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
       </td>
       
     
