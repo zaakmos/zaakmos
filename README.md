@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is <b><i> ZAKARYA EL MOUSSATI</i></b>  ,I am a IT Enthusiast. Looking forward to learn new skills and add them in the list.
 
 
 
