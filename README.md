@@ -22,11 +22,11 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br><a href="https://www.w3schools.com/html/">
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"><a>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br><a href="https://www.w3schools.com/css/">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
