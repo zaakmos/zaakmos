@@ -91,38 +91,26 @@ Hey My Name is ZAKARYA EL MOUSSATI,I am a IT Enthusiast. Looking forward to lear
 <h1 align="center">
 ✨ Where you can find me ✨
 
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+  
 
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+  <!--https://github.com/zaakmos-->
 
   <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
 
   <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
 
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/parth-27">
+   <a href="https://github.com/parth-27">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-
-
-  <br/>
+<br/>
   <a href="https://www.facebook.com/zaak.bcn">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
 
   <a href="https://www.instagram.com/zaak_bcn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
 </h1>
