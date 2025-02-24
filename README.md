@@ -34,12 +34,9 @@ Hey My Name is <b><i> ZAKARYA EL MOUSSATI</i></b>  ,I am a IT Enthusiast. Lookin
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br><a href="https://www.mysql.com/">
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"></a>
       </td>
-           <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br><a href="https://www.mysql.com/">
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-      </td>
+       
       
     
   </tbody>
