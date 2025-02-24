@@ -16,120 +16,57 @@ Hey My Name is <b><i> ZAKARYA EL MOUSSATI</i></b>  ,I am a IT Enthusiast. Lookin
 
 ##  MY TECH STACK
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮 𝟮𝟭</span><br><br><br>
-        <a href="https://www.oracle.com/java/technologies/java-21.html">
-          <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java 21 Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗠𝗮𝘃𝗲𝗻</span><br><br><br>
-        <a href="https://maven.apache.org/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/maven.svg" alt="Maven Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝘂𝗻𝗶𝘁</span><br><br><br>
-        <a href="https://junit.org/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/junit.svg" alt="JUnit Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗗𝗕𝗖</span><br><br><br>
-        <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/jdbc.svg" alt="JDBC Logo">
-        </a>
-      </td>
+<table border="1">
+    <tr>
+        <th>Java 21</th>
+        <th>Maven</th>
+        <th>JUnit</th>
+        <th>JDBC</th>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br><br>
-        <a href="https://spring.io/projects/spring-boot">
-          <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring Boot Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗣𝗔 & 𝗛𝗶𝗯𝗲𝗿𝗻𝗮𝘁𝗲</span><br><br><br>
-        <a href="https://hibernate.org/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg" alt="JPA & Hibernate Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
-        <a href="https://www.docker.com/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗲𝗻𝗸𝗶𝗻𝘀</span><br><br><br>
-        <a href="https://www.jenkins.io/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/jenkins.svg" alt="Jenkins Logo">
-        </a>
-      </td>
+    <tr>
+        <td><img src="java_logo.png" width="100"></td>
+        <td><img src="maven_logo.png" width="100"></td>
+        <td><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="100"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Java_Database_Connectivity_logo.svg/1200px-Java_Database_Connectivity_logo.svg.png" width="100"></td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗞𝗨𝗕𝗘𝗥𝗡𝗘𝗧𝗘𝗦</span><br><br><br>
-        <a href="https://kubernetes.io/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <a href="https://www.w3schools.com/html/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <a href="https://www.w3schools.com/css/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <a href="https://www.javascript.com/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo">
-        </a>
-      </td>
+    <tr>
+        <th>Spring Boot</th>
+        <th>JPA & Hibernate</th>
+        <th>Docker</th>
+        <th>Jenkins</th>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗠𝘆𝗦𝗾𝗹</span><br><br><br>
-        <a href="https://www.mysql.com/">
-          <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝗛𝗣</span><br><br><br>
-        <a href="https://www.php.net/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/php.svg" alt="PHP Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗲𝗻𝗲𝗿𝗮𝗮𝗱𝗮𝗹𝘆𝘀𝗲</span><br><br><br>
-        <a href="https://www.sas.com/en_us/insights/analytics/data-analysis.html">
-          <img height="64px" src="https://cdn.svgporn.com/logos/analytics.svg" alt="Data Analytics Logo">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗰𝗿𝘂𝗺 & 𝗔𝗴𝗶𝗹𝗲</span><br><br><br>
-        <a href="https://www.scrum.org/">
-          <img height="64px" src="https://cdn.svgporn.com/logos/scrum.svg" alt="Scrum & Agile Logo">
-        </a>
-      </td>
+    <tr>
+        <td><img src="spring_logo.png" width="100"></td>
+        <td><img src="hibernate_logo.png" width="100"></td>
+        <td><img src="docker_logo.png" width="100"></td>
+        <td><img src="jenkins_logo.png" width="100"></td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center" colspan="4">
-        <span><strong>Soft Skills</strong></span><br><br><br>
-        <span>Leadership, Communication, Teamwork & Problem Solving</span>
-      </td>
+    <tr>
+        <th>KUBERNETES</th>
+        <th>HTML5</th>
+        <th>CSS3</th>
+        <th>JavaScript</th>
     </tr>
-  </tbody>
+    <tr>
+        <td><img src="kubernetes_logo.png" width="100"></td>
+        <td><img src="html5_logo.png" width="100"></td>
+        <td><img src="css3_logo.png" width="100"></td>
+        <td><img src="js_logo.png" width="100"></td>
+    </tr>
+    <tr>
+        <th>MySQL</th>
+        <th>PHP</th>
+        <th>Generaadanalyse</th>
+        <th>Scrum & Agile</th>
+    </tr>
+    <tr>
+        <td><img src="mysql_logo.png" width="100"></td>
+        <td><img src="php_logo.png" width="100"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Data_Analysis_Icon.png" width="100"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_Logo.svg/1024px-Scrum_Logo.svg.png" width="100"></td>
+    </tr>
 </table>
+
 
 
 <hr>
